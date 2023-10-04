@@ -1,0 +1,6 @@
+Country,Quality,Length,Lower,Upper,Replace to its Quality,Concatenate
+Australia,High,9,australia,AUSTRALIA,High,AustraliaHigh9
+Sweden,High,6,sweden,SWEDEN,High,SwedenHigh6
+Japan,High,5,japan,JAPAN,High,JapanHigh5
+South Africa,Medium,12,south africa,SOUTH AFRICA,Medium,South AfricaMedium12
+Canada,High,6,canada,CANADA,High,CanadaHigh6
